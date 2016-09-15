@@ -279,6 +279,7 @@
 					};
 					F996321D19514FD8001F73CA = {
 						CreatedOnToolsVersion = 6.0;
+						DevelopmentTeam = 799MC5XT56;
 						LastSwiftMigration = 0800;
 					};
 				};
@@ -488,9 +489,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				CURRENT_PROJECT_VERSION = 1;
 				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = 799MC5XT56;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
